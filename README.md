@@ -1,0 +1,2 @@
+# EqualityIEquatableEquals
+.NET C# 
