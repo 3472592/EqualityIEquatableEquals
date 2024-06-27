@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "uoHsSPk7lGwtKEkNm+jCtxyRduljbN1D5080hBH9bGrTMfkbw5ZxZobSeYtrMgYehxbtodNAmPyIRKBsHDhMwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liberty Fox User\\Desktop\\C#\\Appendix i\\6EqualityIEquatableEquals\\EqualityIEquatableEquals\\EqualityIEquatableEquals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\postsharp\\2023.0.7\\postsharp.2023.0.7.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\postsharp.patterns.caching\\2023.0.7\\postsharp.patterns.caching.2023.0.7.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\postsharp.patterns.caching.redist\\2023.0.7\\postsharp.patterns.caching.redist.2023.0.7.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\postsharp.patterns.common\\2023.0.7\\postsharp.patterns.common.2023.0.7.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\postsharp.patterns.common.redist\\2023.0.7\\postsharp.patterns.common.redist.2023.0.7.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\postsharp.redist\\2023.0.7\\postsharp.redist.2023.0.7.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liberty Fox User\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

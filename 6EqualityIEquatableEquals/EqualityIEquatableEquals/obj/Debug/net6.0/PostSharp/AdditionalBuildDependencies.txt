@@ -1,0 +1,1 @@
+C:\Users\Liberty Fox User\Desktop\C#\Appendix i\6EqualityIEquatableEquals\EqualityIEquatableEquals\obj\Debug\net6.0\PostSharp\PostSharp.Compiler.Engine.dll
